@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BiRefNet Background Remover (Enhanced GUI)
 
 A modern, lightweight desktop utility that uses Artificial Intelligence to remove image backgrounds in bulk. Simply place your images in the `input/` folder, run the application, click "Start", and get transparent PNGs in the `output/` folder.
