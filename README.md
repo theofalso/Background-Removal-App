@@ -11,13 +11,7 @@ The only requirement you need installed is **[uv](https://github.com/astral-sh/u
 
 This project uses `uv` to avoid manual virtual environment (`venv`) or `pip` management.
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/theofalso/Backgroud-Removal-App.git](https://github.com/YourUsername/Backgroud-Removal-App.git)
-    cd Backgroud-Removal-App
-    ```
-
-2.  **Run the application:**
+1.  **Run the application:**
     Simply run this command. `uv` will detect dependencies (`torch`, `transformers`, etc.), automatically create the isolated environment, and launch the app:
 
     ```bash
